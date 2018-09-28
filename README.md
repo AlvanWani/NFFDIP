@@ -1,2 +1,2 @@
 # NFFIP
-## Newton's Forward Finite Interpolating Polynomial
+## Newton's Finite Forward Differences Interpolating Polynomial
